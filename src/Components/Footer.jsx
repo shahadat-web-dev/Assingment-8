@@ -6,7 +6,7 @@ const Footer = () => {
     <div className="bg-[#001931]">
       <footer className="  max-w-7xl mx-auto text-neutral-content items-center pb-8">
 
-        <div className="md:flex items-center justify-between mt-9 px-4">
+        <div className="flex items-center justify-between mt-9 px-4">
 
           <div className="flex items-center gap-2">
             <img className="h-10 cursor-pointer" src="https://i.ibb.co.com/hRTCtpgt/logo.png" alt="" />
