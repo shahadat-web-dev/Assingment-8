@@ -1,0 +1,506 @@
+[
+  {
+    "image": "image_1.png",
+    "title": "Cosmic Voyager",
+    "companyName": "StarGames Inc.",
+    "id": 1,
+    "description": "A thrilling space exploration game where you pilot your ship through distant galaxies, discover new planets, and trade rare resources. Engage in epic space battles and become the ultimate cosmic adventurer! The galaxy awaits your command.",
+    "size": 1200,
+    "reviews": 45821,
+    "ratingAvg": 4.7,
+    "downloads": 1500000,
+    "ratings": [
+      { "name": "1 star", "count": 500 },
+      { "name": "2 star", "count": 800 },
+      { "name": "3 star", "count": 2500 },
+      { "name": "4 star", "count": 10000 },
+      { "name": "5 star", "count": 32021 }
+    ]
+  },
+  {
+    "image": "image_2.png",
+    "title": "Fitness Tracker Pro",
+    "companyName": "HealthTech Solutions",
+    "id": 2,
+    "description": "Monitor your daily steps, sleep patterns, and heart rate with incredible accuracy. Set personalized fitness goals and track your progress over time with insightful charts and graphs. Stay motivated and achieve your personal best every day!",
+    "size": 55,
+    "reviews": 9876,
+    "ratingAvg": 4.2,
+    "downloads": 550000,
+    "ratings": [
+      { "name": "1 star", "count": 350 },
+      { "name": "2 star", "count": 400 },
+      { "name": "3 star", "count": 1200 },
+      { "name": "4 star", "count": 3000 },
+      { "name": "5 star", "count": 4926 }
+    ]
+  },
+  {
+    "image": "image_3.png",
+    "title": "Recipe Genie",
+    "companyName": "Culinary Apps LLC",
+    "id": 3,
+    "description": "Discover millions of recipes from around the world. Filter by ingredients you have on hand, dietary restrictions, or cooking time. Save your favorites and create personalized meal plans for the week. Cooking has never been easier or more fun!",
+    "size": 90,
+    "reviews": 123456,
+    "ratingAvg": 4.9,
+    "downloads": 5200000,
+    "ratings": [
+      { "name": "1 star", "count": 1200 },
+      { "name": "2 star", "count": 1500 },
+      { "name": "3 star", "count": 5000 },
+      { "name": "4 star", "count": 30000 },
+      { "name": "5 star", "count": 85756 }
+    ]
+  },
+  {
+    "image": "image_4.png",
+    "title": "Photo Editor Plus",
+    "companyName": "Creative Studio",
+    "id": 4,
+    "description": "Professional-grade photo editing tools right on your mobile device. Apply stunning filters, adjust brightness and contrast, crop, rotate, and add text or stickers to your pictures. Transform your photos into works of art quickly and easily.",
+    "size": 150,
+    "reviews": 250000,
+    "ratingAvg": 4.6,
+    "downloads": 12000000,
+    "ratings": [
+      { "name": "1 star", "count": 3000 },
+      { "name": "2 star", "count": 4500 },
+      { "name": "3 star", "count": 15000 },
+      { "name": "4 star", "count": 65000 },
+      { "name": "5 star", "count": 162500 }
+    ]
+  },
+  {
+    "image": "image_5.png",
+    "title": "Mindful Meditation",
+    "companyName": "Zen Life Apps",
+    "id": 5,
+    "description": "Guided meditation sessions for beginners and advanced users. Reduce stress, improve sleep quality, and enhance focus with our calming soundscapes. Start your journey to a more peaceful and balanced life today. Achieve inner calm!",
+    "size": 300,
+    "reviews": 75432,
+    "ratingAvg": 4.8,
+    "downloads": 3100000,
+    "ratings": [
+      { "name": "1 star", "count": 800 },
+      { "name": "2 star", "count": 1000 },
+      { "name": "3 star", "count": 3000 },
+      { "name": "4 star", "count": 15000 },
+      { "name": "5 star", "count": 55632 }
+    ]
+  },
+  {
+    "image": "image_6.png",
+    "title": "Pixel Arena Battle",
+    "companyName": "GigaDev Games",
+    "id": 6,
+    "description": "Fast-paced, retro-style multiplayer battle royale game. Drop into the arena, scavenge for weapons, and eliminate the competition to be the last one standing. Team up with friends for intense squad action! Dominate the leaderboard now.",
+    "size": 800,
+    "reviews": 350000,
+    "ratingAvg": 4.4,
+    "downloads": 25000000,
+    "ratings": [
+      { "name": "1 star", "count": 6000 },
+      { "name": "2 star", "count": 9000 },
+      { "name": "3 star", "count": 30000 },
+      { "name": "4 star", "count": 95000 },
+      { "name": "5 star", "count": 210000 }
+    ]
+  },
+  {
+    "image": "image_7.png",
+    "title": "Expense Manager",
+    "companyName": "Money Savvy",
+    "id": 7,
+    "description": "Easily track your income and expenses. Visualize your spending with detailed reports and set budgets to control your finances. Achieve your savings goals and take control of your financial future. Manage your budget smarter!",
+    "size": 40,
+    "reviews": 18000,
+    "ratingAvg": 4.5,
+    "downloads": 900000,
+    "ratings": [
+      { "name": "1 star", "count": 200 },
+      { "name": "2 star", "count": 400 },
+      { "name": "3 star", "count": 1400 },
+      { "name": "4 star", "count": 5000 },
+      { "name": "5 star", "count": 11000 }
+    ]
+  },
+  {
+    "image": "image_8.png",
+    "title": "Language Learner",
+    "companyName": "Global Ed",
+    "id": 8,
+    "description": "Learn a new language through interactive lessons, fun quizzes, and native speaker audio. Choose from over 30 languages and practice speaking, reading, and writing at your own pace. Expand your horizons and connect with the world!",
+    "size": 250,
+    "reviews": 400000,
+    "ratingAvg": 4.7,
+    "downloads": 18000000,
+    "ratings": [
+      { "name": "1 star", "count": 4000 },
+      { "name": "2 star", "count": 6000 },
+      { "name": "3 star", "count": 20000 },
+      { "name": "4 star", "count": 100000 },
+      { "name": "5 star", "count": 270000 }
+    ]
+  },
+  {
+    "image": "image_9.png",
+    "title": "Sudoku Master",
+    "companyName": "Logic Puzzles Co.",
+    "id": 9,
+    "description": "Enjoy thousands of classic Sudoku puzzles from easy to expert difficulty. Customize your board with different themes and track your statistics. Challenge your mind and improve your logical thinking skills every single day!",
+    "size": 25,
+    "reviews": 5500,
+    "ratingAvg": 4.3,
+    "downloads": 350000,
+    "ratings": [
+      { "name": "1 star", "count": 100 },
+      { "name": "2 star", "count": 250 },
+      { "name": "3 star", "count": 700 },
+      { "name": "4 star", "count": 1800 },
+      { "name": "5 star", "count": 2650 }
+    ]
+  },
+  {
+    "image": "image_10.png",
+    "title": "Weather Live",
+    "companyName": "Atmosphere Data",
+    "id": 10,
+    "description": "Get accurate, real-time weather forecasts for any location in the world. View hourly and 7-day predictions, radar maps, and severe weather alerts. Plan your day with confidence knowing the latest meteorological details.",
+    "size": 70,
+    "reviews": 150000,
+    "ratingAvg": 4.5,
+    "downloads": 7500000,
+    "ratings": [
+      { "name": "1 star", "count": 1500 },
+      { "name": "2 star", "count": 3000 },
+      { "name": "3 star", "count": 10000 },
+      { "name": "4 star", "count": 40000 },
+      { "name": "5 star", "count": 95500 }
+    ]
+  },
+  {
+    "image": "image_11.png",
+    "title": "3D Modeling Pro",
+    "companyName": "DesignWorks",
+    "id": 11,
+    "description": "Create stunning 3D models and animations right from your tablet or phone. Use intuitive tools and a vast library of textures and shapes. Bring your digital creations to life and share them with the world instantly!",
+    "size": 1500,
+    "reviews": 12000,
+    "ratingAvg": 4.1,
+    "downloads": 450000,
+    "ratings": [
+      { "name": "1 star", "count": 800 },
+      { "name": "2 star", "count": 1000 },
+      { "name": "3 star", "count": 2500 },
+      { "name": "4 star", "count": 3500 },
+      { "name": "5 star", "count": 4200 }
+    ]
+  },
+  {
+    "image": "image_12.png",
+    "title": "Music Mixer Studio",
+    "companyName": "AudioFlow Tech",
+    "id": 12,
+    "description": "Become a DJ with this powerful music mixing app. Create custom tracks, apply effects, and record your own mixes. Access millions of loops and samples to produce professional-quality music right in your pocket. Get creative now!",
+    "size": 950,
+    "reviews": 45000,
+    "ratingAvg": 4.3,
+    "downloads": 1800000,
+    "ratings": [
+      { "name": "1 star", "count": 1500 },
+      { "name": "2 star", "count": 2500 },
+      { "name": "3 star", "count": 6000 },
+      { "name": "4 star", "count": 15000 },
+      { "name": "5 star", "count": 20000 }
+    ]
+  },
+  {
+    "image": "image_13.png",
+    "title": "Classic Solitaire",
+    "companyName": "Card Game Masters",
+    "id": 13,
+    "description": "The timeless card game you know and love, optimized for mobile play. Enjoy smooth gameplay, customizable decks, and daily challenges to keep your mind sharp and entertained for hours on end. Play a relaxing game today!",
+    "size": 30,
+    "reviews": 500000,
+    "ratingAvg": 4.6,
+    "downloads": 30000000,
+    "ratings": [
+      { "name": "1 star", "count": 5000 },
+      { "name": "2 star", "count": 8000 },
+      { "name": "3 star", "count": 30000 },
+      { "name": "4 star", "count": 120000 },
+      { "name": "5 star", "count": 337000 }
+    ]
+  },
+  {
+    "image": "image_14.png",
+    "title": "Home Decor Planner",
+    "companyName": "Interior Visions",
+    "id": 14,
+    "description": "Design your dream home with a virtual planner. Arrange furniture, choose color schemes, and visualize your space in 3D before making a purchase. Experiment with different styles and create the perfect living environment easily.",
+    "size": 500,
+    "reviews": 15000,
+    "ratingAvg": 4.2,
+    "downloads": 600000,
+    "ratings": [
+      { "name": "1 star", "count": 900 },
+      { "name": "2 star", "count": 1100 },
+      { "name": "3 star", "count": 3000 },
+      { "name": "4 star", "count": 4500 },
+      { "name": "5 star", "count": 5500 }
+    ]
+  },
+  {
+    "image": "image_15.png",
+    "title": "Stock Market Live",
+    "companyName": "Invest Smart",
+    "id": 15,
+    "description": "Real-time stock quotes, personalized watchlists, and market news. Track your portfolio performance and get alerts on price changes. Make informed investment decisions with comprehensive financial data at your fingertips.",
+    "size": 60,
+    "reviews": 85000,
+    "ratingAvg": 4.7,
+    "downloads": 4000000,
+    "ratings": [
+      { "name": "1 star", "count": 1000 },
+      { "name": "2 star", "count": 1500 },
+      { "name": "3 star", "count": 5000 },
+      { "name": "4 star", "count": 20000 },
+      { "name": "5 star", "count": 57500 }
+    ]
+  },
+  {
+    "image": "image_16.png",
+    "title": "RPG Quest: Legends",
+    "companyName": "Epic Worlds Studio",
+    "id": 16,
+    "description": "An open-world role-playing game with a massive map, deep character customization, and an engaging storyline. Explore ancient ruins, fight mythical beasts, and become a legendary hero in a world full of magic and wonder.",
+    "size": 2500,
+    "reviews": 600000,
+    "ratingAvg": 4.8,
+    "downloads": 40000000,
+    "ratings": [
+      { "name": "1 star", "count": 7000 },
+      { "name": "2 star", "count": 10000 },
+      { "name": "3 star", "count": 33000 },
+      { "name": "4 star", "count": 150000 },
+      { "name": "5 star", "count": 400000 }
+    ]
+  },
+  {
+    "image": "image_17.png",
+    "title": "PDF Reader Ultimate",
+    "companyName": "DocuTools Inc.",
+    "id": 17,
+    "description": "A fast and lightweight PDF reader and editor. Annotate documents, fill out forms, sign papers, and organize your files with ease. Perfect for students and professionals needing reliable document management on the go.",
+    "size": 45,
+    "reviews": 210000,
+    "ratingAvg": 4.4,
+    "downloads": 10000000,
+    "ratings": [
+      { "name": "1 star", "count": 3000 },
+      { "name": "2 star", "count": 5000 },
+      { "name": "3 star", "count": 22000 },
+      { "name": "4 star", "count": 60000 },
+      { "name": "5 star", "count": 120000 }
+    ]
+  },
+  {
+    "image": "image_18.png",
+    "title": "Code Editor Mobile",
+    "companyName": "Developer Tools Co.",
+    "id": 18,
+    "description": "Edit code on the go with syntax highlighting for multiple languages (Python, Java, HTML, CSS). Includes an integrated console and file management system. Perfect for quick fixes or remote development work right from your device.",
+    "size": 110,
+    "reviews": 3200,
+    "ratingAvg": 3.9,
+    "downloads": 150000,
+    "ratings": [
+      { "name": "1 star", "count": 400 },
+      { "name": "2 star", "count": 500 },
+      { "name": "3 star", "count": 900 },
+      { "name": "4 star", "count": 800 },
+      { "name": "5 star", "count": 600 }
+    ]
+  },
+  {
+    "image": "image_19.png",
+    "title": "Driving Simulator 23",
+    "companyName": "Road King Games",
+    "id": 19,
+    "description": "Experience realistic car physics and stunning open-world maps. Choose from a vast collection of licensed vehicles and complete challenging missions. Feel the adrenaline rush of high-speed racing and detailed simulation driving.",
+    "size": 3000,
+    "reviews": 125000,
+    "ratingAvg": 4.5,
+    "downloads": 6500000,
+    "ratings": [
+      { "name": "1 star", "count": 1500 },
+      { "name": "2 star", "count": 3000 },
+      { "name": "3 star", "count": 10000 },
+      { "name": "4 star", "count": 35000 },
+      { "name": "5 star", "count": 75500 }
+    ]
+  },
+  {
+    "image": "image_20.png",
+    "title": "Astrology Daily",
+    "companyName": "Cosmic Insights",
+    "id": 20,
+    "description": "Your daily horoscope and personalized astrology readings based on your birth chart. Explore compatibility, planetary transits, and get a deeper understanding of your future and personality. Get cosmic wisdom daily!",
+    "size": 80,
+    "reviews": 90000,
+    "ratingAvg": 4.2,
+    "downloads": 4800000,
+    "ratings": [
+      { "name": "1 star", "count": 2000 },
+      { "name": "2 star", "count": 2500 },
+      { "name": "3 star", "count": 8000 },
+      { "name": "4 star", "count": 25000 },
+      { "name": "5 star", "count": 52500 }
+    ]
+  },
+  {
+    "image": "image_21.png",
+    "title": "Dictionary Offline",
+    "companyName": "Word Power Apps",
+    "id": 21,
+    "description": "Access over 200,000 words and definitions, synonyms, and antonyms without an internet connection. Perfect for students and writers needing a comprehensive reference tool anytime, anywhere. Expand your vocabulary now.",
+    "size": 200,
+    "reviews": 7000,
+    "ratingAvg": 4.7,
+    "downloads": 550000,
+    "ratings": [
+      { "name": "1 star", "count": 100 },
+      { "name": "2 star", "count": 150 },
+      { "name": "3 star", "count": 500 },
+      { "name": "4 star", "count": 1800 },
+      { "name": "5 star", "count": 4450 }
+    ]
+  },
+  {
+    "image": "image_22.png",
+    "title": "AI Art Generator",
+    "companyName": "Digital Canvas Lab",
+    "id": 22,
+    "description": "Create stunning, unique digital artwork using cutting-edge artificial intelligence. Just enter a text prompt and watch the AI transform your words into beautiful visual masterpieces in seconds. Unleash your creative side!",
+    "size": 350,
+    "reviews": 55000,
+    "ratingAvg": 4.9,
+    "downloads": 2200000,
+    "ratings": [
+      { "name": "1 star", "count": 500 },
+      { "name": "2 star", "count": 600 },
+      { "name": "3 star", "count": 2000 },
+      { "name": "4 star", "count": 12000 },
+      { "name": "5 star", "count": 39900 }
+    ]
+  },
+  {
+    "image": "image_23.png",
+    "title": "Personal Journal",
+    "companyName": "Memory Keeper",
+    "id": 23,
+    "description": "A secure and private digital journal to record your thoughts, memories, and daily events. Add photos, set reminders, and lock your entries with a passcode. Reflect on your life's journey safely and with peace of mind.",
+    "size": 90,
+    "reviews": 14000,
+    "ratingAvg": 4.5,
+    "downloads": 700000,
+    "ratings": [
+      { "name": "1 star", "count": 150 },
+      { "name": "2 star", "count": 350 },
+      { "name": "3 star", "count": 1000 },
+      { "name": "4 star", "count": 4000 },
+      { "name": "5 star", "count": 8500 }
+    ]
+  },
+  {
+    "image": "image_24.png",
+    "title": "Tower Defense Max",
+    "companyName": "Strategy Games Ltd",
+    "id": 24,
+    "description": "Build powerful towers and defend your base against waves of relentless enemies. Unlock upgrades, deploy special abilities, and master unique maps. A classic strategy game with challenging and addictive gameplay for all ages!",
+    "size": 650,
+    "reviews": 210000,
+    "ratingAvg": 4.6,
+    "downloads": 11000000,
+    "ratings": [
+      { "name": "1 star", "count": 2500 },
+      { "name": "2 star", "count": 4000 },
+      { "name": "3 star", "count": 15000 },
+      { "name": "4 star", "count": 55000 },
+      { "name": "5 star", "count": 133500 }
+    ]
+  },
+  {
+    "image": "image_25.png",
+    "title": "Podcast Player Go",
+    "companyName": "ListenUp Media",
+    "id": 25,
+    "description": "Discover and subscribe to millions of podcasts worldwide. Enjoy offline downloads, adjustable playback speeds, and smart recommendations based on your listening history. Never miss an episode of your favorite shows again!",
+    "size": 50,
+    "reviews": 60000,
+    "ratingAvg": 4.8,
+    "downloads": 3500000,
+    "ratings": [
+      { "name": "1 star", "count": 500 },
+      { "name": "2 star", "count": 800 },
+      { "name": "3 star", "count": 2700 },
+      { "name": "4 star", "count": 15000 },
+      { "name": "5 star", "count": 41000 }
+    ]
+  },
+  {
+    "image": "image_26.png",
+    "title": "Chemistry Lab VR",
+    "companyName": "Science Immersion",
+    "id": 26,
+    "description": "A fully immersive virtual reality chemistry laboratory. Safely perform complex experiments, mix chemicals, and learn about reactions in a realistic 3D environment. Great for students and enthusiasts of scientific discovery and learning.",
+    "size": 4000,
+    "reviews": 8500,
+    "ratingAvg": 4.1,
+    "downloads": 250000,
+    "ratings": [
+      { "name": "1 star", "count": 600 },
+      { "name": "2 star", "count": 800 },
+      { "name": "3 star", "count": 1800 },
+      { "name": "4 star", "count": 2500 },
+      { "name": "5 star", "count": 2800 }
+    ]
+  },
+  {
+    "image": "image_27.png",
+    "title": "Ticket Scanner Pro",
+    "companyName": "Event Solutions",
+    "id": 27,
+    "description": "The fastest way to scan and validate tickets for any event. Use your device's camera to process barcodes and QR codes instantly. Monitor attendance in real-time and ensure smooth, hassle-free entry for all your guests.",
+    "size": 75,
+    "reviews": 2500,
+    "ratingAvg": 4.0,
+    "downloads": 100000,
+    "ratings": [
+      { "name": "1 star", "count": 150 },
+      { "name": "2 star", "count": 200 },
+      { "name": "3 star", "count": 600 },
+      { "name": "4 star", "count": 800 },
+      { "name": "5 star", "count": 750 }
+    ]
+  },
+  {
+    "image": "image_28.png",
+    "title": "Digital Painting Pad",
+    "companyName": "Artistic Apps",
+    "id": 28,
+    "description": "A powerful drawing application with a vast array of brushes, layers, and color palettes. Create stunning digital paintings and sketches with professional-level tools. Share your creations with a vibrant community of artists online.",
+    "size": 850,
+    "reviews": 95000,
+    "ratingAvg": 4.7,
+    "downloads": 4800000,
+    "ratings": [
+      { "name": "1 star", "count": 1200 },
+      { "name": "2 star", "count": 1800 },
+      { "name": "3 star", "count": 6000 },
+      { "name": "4 star", "count": 25000 },
+      { "name": "5 star", "count": 61000 }
+    ]
+  }
+]
