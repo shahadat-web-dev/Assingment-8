@@ -7,8 +7,8 @@
     "description": "A thrilling space exploration game where you pilot your ship through distant galaxies, discover new planets, and trade rare resources. Engage in epic space battles and become the ultimate cosmic adventurer! The galaxy awaits your command.",
     "size": 1200,
     "reviews": 45821,
-    "ratingAvg": 4.7,
-    "downloads": 1500000,
+    "ratingAvg": 4,
+    "downloads": 15,
     "ratings": [
       { "name": "1 star", "count": 500 },
       { "name": "2 star", "count": 800 },
@@ -25,8 +25,8 @@
     "description": "Monitor your daily steps, sleep patterns, and heart rate with incredible accuracy. Set personalized fitness goals and track your progress over time with insightful charts and graphs. Stay motivated and achieve your personal best every day!",
     "size": 55,
     "reviews": 9876,
-    "ratingAvg": 4.2,
-    "downloads": 550000,
+    "ratingAvg": 4,
+    "downloads": 55,
     "ratings": [
       { "name": "1 star", "count": 350 },
       { "name": "2 star", "count": 400 },
@@ -43,8 +43,8 @@
     "description": "Discover millions of recipes from around the world. Filter by ingredients you have on hand, dietary restrictions, or cooking time. Save your favorites and create personalized meal plans for the week. Cooking has never been easier or more fun!",
     "size": 90,
     "reviews": 123456,
-    "ratingAvg": 4.9,
-    "downloads": 5200000,
+    "ratingAvg": 4,
+    "downloads": 52,
     "ratings": [
       { "name": "1 star", "count": 1200 },
       { "name": "2 star", "count": 1500 },
@@ -61,8 +61,8 @@
     "description": "Professional-grade photo editing tools right on your mobile device. Apply stunning filters, adjust brightness and contrast, crop, rotate, and add text or stickers to your pictures. Transform your photos into works of art quickly and easily.",
     "size": 150,
     "reviews": 250000,
-    "ratingAvg": 4.6,
-    "downloads": 12000000,
+    "ratingAvg": 4,
+    "downloads": 12,
     "ratings": [
       { "name": "1 star", "count": 3000 },
       { "name": "2 star", "count": 4500 },
@@ -79,8 +79,8 @@
     "description": "Guided meditation sessions for beginners and advanced users. Reduce stress, improve sleep quality, and enhance focus with our calming soundscapes. Start your journey to a more peaceful and balanced life today. Achieve inner calm!",
     "size": 300,
     "reviews": 75432,
-    "ratingAvg": 4.8,
-    "downloads": 3100000,
+    "ratingAvg": 4,
+    "downloads": 31,
     "ratings": [
       { "name": "1 star", "count": 800 },
       { "name": "2 star", "count": 1000 },
@@ -97,8 +97,8 @@
     "description": "Fast-paced, retro-style multiplayer battle royale game. Drop into the arena, scavenge for weapons, and eliminate the competition to be the last one standing. Team up with friends for intense squad action! Dominate the leaderboard now.",
     "size": 800,
     "reviews": 350000,
-    "ratingAvg": 4.4,
-    "downloads": 25000000,
+    "ratingAvg": 4,
+    "downloads": 25,
     "ratings": [
       { "name": "1 star", "count": 6000 },
       { "name": "2 star", "count": 9000 },
@@ -115,8 +115,8 @@
     "description": "Easily track your income and expenses. Visualize your spending with detailed reports and set budgets to control your finances. Achieve your savings goals and take control of your financial future. Manage your budget smarter!",
     "size": 40,
     "reviews": 18000,
-    "ratingAvg": 4.5,
-    "downloads": 900000,
+    "ratingAvg": 4,
+    "downloads": 9,
     "ratings": [
       { "name": "1 star", "count": 200 },
       { "name": "2 star", "count": 400 },
@@ -133,8 +133,8 @@
     "description": "Learn a new language through interactive lessons, fun quizzes, and native speaker audio. Choose from over 30 languages and practice speaking, reading, and writing at your own pace. Expand your horizons and connect with the world!",
     "size": 250,
     "reviews": 400000,
-    "ratingAvg": 4.7,
-    "downloads": 18000000,
+    "ratingAvg": 5,
+    "downloads": 18,
     "ratings": [
       { "name": "1 star", "count": 4000 },
       { "name": "2 star", "count": 6000 },
@@ -152,7 +152,7 @@
     "size": 25,
     "reviews": 5500,
     "ratingAvg": 4.3,
-    "downloads": 350000,
+    "downloads": 35,
     "ratings": [
       { "name": "1 star", "count": 100 },
       { "name": "2 star", "count": 250 },
@@ -170,7 +170,7 @@
     "size": 70,
     "reviews": 150000,
     "ratingAvg": 4.5,
-    "downloads": 7500000,
+    "downloads": 75,
     "ratings": [
       { "name": "1 star", "count": 1500 },
       { "name": "2 star", "count": 3000 },
@@ -288,7 +288,7 @@
     ]
   },
   {
-    "image": "image_17.png",
+    "image": "https://i.ibb.co.com/39xstSzm/unnamed.png",
     "title": "PDF Reader Ultimate",
     "companyName": "DocuTools Inc.",
     "id": 17,
@@ -306,7 +306,7 @@
     ]
   },
   {
-    "image": "image_18.png",
+    "image": "https://i.ibb.co.com/KchSXXHr/adccff35-190a-4600-a144-6b8cbb5f09d2.png",
     "title": "Code Editor Mobile",
     "companyName": "Developer Tools Co.",
     "id": 18,
@@ -324,7 +324,7 @@
     ]
   },
   {
-    "image": "image_19.png",
+    "image": "https://i.ibb.co.com/sdG5c9NP/istockphoto-1423004046-612x612.jpg",
     "title": "Driving Simulator 23",
     "companyName": "Road King Games",
     "id": 19,
@@ -342,7 +342,7 @@
     ]
   },
   {
-    "image": "image_20.png",
+    "image": "https://i.ibb.co.com/TxN6Hzc8/images.jpg",
     "title": "Astrology Daily",
     "companyName": "Cosmic Insights",
     "id": 20,
@@ -360,7 +360,7 @@
     ]
   },
   {
-    "image": "image_21.png",
+    "image": "https://i.ibb.co.com/yFPyyN97/unnamed-1.png",
     "title": "Dictionary Offline",
     "companyName": "Word Power Apps",
     "id": 21,
@@ -378,7 +378,7 @@
     ]
   },
   {
-    "image": "image_22.png",
+    "image": "https://i.ibb.co.com/svxSCQXS/images.png",
     "title": "AI Art Generator",
     "companyName": "Digital Canvas Lab",
     "id": 22,
@@ -396,7 +396,7 @@
     ]
   },
   {
-    "image": "image_23.png",
+    "image": "https://i.ibb.co.com/CNr153M/premium-photo-1684444605542-93725082d214.jpg",
     "title": "Personal Journal",
     "companyName": "Memory Keeper",
     "id": 23,
@@ -414,7 +414,7 @@
     ]
   },
   {
-    "image": "image_24.png",
+    "image": "https://i.ibb.co.com/bgbYcxFB/a-man-is-placing-wooden-blocks-on-top-of-a-wooden-table-photo.jpg",
     "title": "Tower Defense Max",
     "companyName": "Strategy Games Ltd",
     "id": 24,
@@ -432,7 +432,7 @@
     ]
   },
   {
-    "image": "image_25.png",
+    "image": "https://i.ibb.co.com/XwBZm3Z/images.jpg",
     "title": "Podcast Player Go",
     "companyName": "ListenUp Media",
     "id": 25,
@@ -450,7 +450,7 @@
     ]
   },
   {
-    "image": "image_26.png",
+    "image": "https://i.ibb.co.com/NdnWFtSH/images.jpg",
     "title": "Chemistry Lab VR",
     "companyName": "Science Immersion",
     "id": 26,
@@ -468,7 +468,7 @@
     ]
   },
   {
-    "image": "image_27.png",
+    "image": "https://i.ibb.co.com/QZthVJW/using-mobile-telephone-to-check-in-for-airline-flight-boarding-pass-BJ7-NRA.jpg",
     "title": "Ticket Scanner Pro",
     "companyName": "Event Solutions",
     "id": 27,
@@ -486,7 +486,7 @@
     ]
   },
   {
-    "image": "image_28.png",
+    "image": "https://i.ibb.co.com/Kjqh28jr/photo-1581094798398-153528d38b8f.jpg",
     "title": "Digital Painting Pad",
     "companyName": "Artistic Apps",
     "id": 28,

@@ -1,6 +1,17 @@
-import { Link } from "react-router";
+import { Link,} from "react-router";
 import heroImg from '../assets/hero.png'
+import ProductCard from "../Components/ProductCard";
+import useProducts from "../Components/Hooks/useProducts";
+
 const Home = () => {
+  const { products, loading, error} = useProducts()
+
+  const data = useProducts()
+  console.log(data);
+
+  const homeProduct = products.slice(0,8)
+  // console.log(products);
+
   return (
     <div className="bg-[#F5F5F5]">
       <div className="text-center">
@@ -18,27 +29,47 @@ const Home = () => {
       </div>
 
       <div className="bg-linear-to-r from-[#6933E5] to-[#9A5DF1] text-white p-20">
-          <h1 className="text-center md:text-5xl text-4xl font-bold">Trusted by Millions, Built for You</h1>
-          <div className="md:flex justify-center pt-10 gap-30">
+        <h1 className="text-center md:text-5xl text-4xl font-bold">Trusted by Millions, Built for You</h1>
+        <div className="md:flex justify-center pt-10 gap-30">
 
-            <div className="text-center">
-              <p className="text-[#E4D9FB]">Total Downloads</p>
-              <h2 className="md:text-6xl text-5xl font-extrabold py-4">29.6M</h2>
-              <span className="text-[#E4D9FB]">21% more than last month</span>
-            </div>
-            <div className="text-center">
-              <p className="text-[#E4D9FB]">Total Reviews</p>
-              <h2 className="md:text-6xl text-5xl font-extrabold py-4">906k</h2>
-              <span className="text-[#E4D9FB]">46% more than last month</span>
-            </div>
-            <div className="text-center">
-              <p className="text-[#E4D9FB]">Active Apps</p>
-              <h2 className="md:text-6xl text-5xl font-extrabold py-4">29.6M</h2>
-              <span className="text-[#E4D9FB]">31 more will Launch</span>
-            </div>
-            
+          <div className="text-center">
+            <p className="text-[#E4D9FB]">Total Downloads</p>
+            <h2 className="md:text-6xl text-5xl font-extrabold py-4">29.6M</h2>
+            <span className="text-[#E4D9FB]">21% more than last month</span>
           </div>
+          <div className="text-center">
+            <p className="text-[#E4D9FB]">Total Reviews</p>
+            <h2 className="md:text-6xl text-5xl font-extrabold py-4">906k</h2>
+            <span className="text-[#E4D9FB]">46% more than last month</span>
+          </div>
+          <div className="text-center">
+            <p className="text-[#E4D9FB]">Active Apps</p>
+            <h2 className="md:text-6xl text-5xl font-extrabold py-4">29.6M</h2>
+            <span className="text-[#E4D9FB]">31 more will Launch</span>
+          </div>
+
         </div>
+      </div>
+
+      <h1 className="text-5xl font-bold pt-20 text-center">Trending Apps</h1>
+      <p className="text-center pt-4 pb-10 text-xl text-[#6B7B8A]">Explore All Trending Apps on the Market developed by us</p>
+
+
+      
+        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 max-w-7xl mx-auto gap-4">
+
+          {
+          homeProduct.map(product => (
+            <ProductCard key={product.id} product={product}></ProductCard>
+          ))
+        }       
+      </div>
+ 
+     {/* Show all button */}
+
+      <div className="pt-10 pb-20 text-center ">
+        <Link to='/app' className="bg-linear-to-r from-[#6933E5] to-[#9A5DF1] text-white py-3 px-10 font-semibold cursor-pointer rounded-md hover:scale-105 transition ease-in-out">Show All</Link>
+      </div>
 
     </div>
   );

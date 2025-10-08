@@ -31,7 +31,7 @@ const Navbar = () => {
 
        <Link to='/' className='flex items-center gap-1'>
          <img  className='h-10' src="https://i.ibb.co.com/hRTCtpgt/logo.png" alt="" />
-        <Link  className="text-xl font-bold"> HERO.IO</Link>
+        <h1  className="text-xl font-bold"> HERO.IO</h1>
        </Link>
       </div>
       <div className="navbar-center hidden lg:flex">
