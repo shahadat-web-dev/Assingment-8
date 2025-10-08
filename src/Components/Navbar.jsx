@@ -31,24 +31,24 @@ const Navbar = () => {
 
        <Link to='/' className='flex items-center gap-1'>
          <img  className='h-10' src="https://i.ibb.co.com/hRTCtpgt/logo.png" alt="" />
-        <h1  className="text-xl font-bold"> HERO.IO</h1>
+        <h1  className="text-xl font-bold text-[#6C36E6]"> HERO.IO</h1>
        </Link>
       </div>
       <div className="navbar-center hidden lg:flex">
         <ul className="menu menu-horizontal px-1">
           <li>
-            <Link to='/' className='font-medium hover:underline'><FaHome /> Home</Link>
+            <Link to='/' className='font-medium hover:underline hover:text-[#6C36E6]'><FaHome /> Home</Link>
           </li>
           <li>
-           <Link to='/app' className='font-medium hover:underline'><FaAppStoreIos /> Apps</Link>
+           <Link to='/app' className='font-medium hover:underline hover:text-[#6C36E6]'><FaAppStoreIos /> Apps</Link>
           </li>
           <li>
-             <Link to='/install' className='font-medium hover:underline'><MdInstallDesktop /> Installation</Link>
+             <Link to='/install' className='font-medium hover:underline hover:text-[#6C36E6]'><MdInstallDesktop /> Installation</Link>
           </li>
         </ul>
       </div>
       <div className="navbar-end">
-        <Link to='https://github.com/shahadat-web-dev' className="btn bg-linear-to-r from-[#6933E5] to-[#9A5DF1] text-white"><FaGithub /> Contribute</Link>
+        <Link to='https://github.com/shahadat-web-dev/Assingment-8' className="btn bg-linear-to-r from-[#6933E5] to-[#9A5DF1] text-white"><FaGithub /> Contribute</Link>
       </div>
     </div>
    </div>

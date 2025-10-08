@@ -1,13 +1,14 @@
 import { LuDownload } from "react-icons/lu";
 import { IoStar } from "react-icons/io5";
+import { Link } from "react-router";
 
 const ProductCard = ({ product }) => {
-  const { image, title, downloads, ratingAvg } = product;
+  const { image, title, downloads, ratingAvg, id } = product;
 
   return (
-    <div className="card bg-base-100  shadow-sm hover:scale-105 transition ease-in-out">
+    <Link to={`/product/${id}`} className="card bg-base-100  shadow-sm hover:scale-105 transition ease-in-out">
       <figure className="h-[316px] overflow-hidden">
-        <img className="h-full w-full object-cover p-4"
+        <img className="h-full w-full object-cover rounded-3xl p-4"
           src={image}
           alt="Shoes" />
       </figure>
@@ -29,7 +30,7 @@ const ProductCard = ({ product }) => {
         </div>
 
       </div>
-    </div>
+    </Link>
   );
 };
 
